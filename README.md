@@ -14,7 +14,7 @@ JavaScriptのArrayメソッドで敵と戦う魔法少女のお話。
 ## 目次
 
 * 第1話 popとpush
-* 第2話
+* 第2話 shiftとunshift
 * 第3話
 * 第4話
 * 第5話
@@ -26,5 +26,5 @@ JavaScriptのArrayメソッドで敵と戦う魔法少女のお話。
 * 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzM0MzcyN119
+eyJoaXN0b3J5IjpbLTIwMzE3MzM5OTZdfQ==
 -->
