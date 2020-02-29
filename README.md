@@ -22,9 +22,10 @@ JavaScriptのArrayメソッドで敵と戦う魔法少女のお話。
 * 第7話 includesとslice
 * 第8話 filterとfind
 * 第9話 mapとforEach
-* 第10話
-* 
-
+* 第10話 everyとsome
+* 第11話 reduceとreduceRight
+* 第12話 entries、keys、values
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5NDU5MTgwOSwtMjAzMTczMzk5Nl19
+eyJoaXN0b3J5IjpbLTEwODUzNzY2MzEsLTIwMzE3MzM5OTZdfQ
+==
 -->
