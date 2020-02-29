@@ -18,13 +18,13 @@ JavaScriptのArrayメソッドで敵と戦う魔法少女のお話。
 * 第3話 sortとreverse
 * 第4話 fillとsplice
 * 第5話 indexOfとlastIndexOf
-* 第6話
-* 第7話
-* 第8話
-* 第9話
+* 第6話 joinとconcat
+* 第7話 includesとslice
+* 第8話 filterとfind
+* 第9話 mapとforEach
 * 第10話
 * 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5MzYzMDkzMywtMjAzMTczMzk5Nl19
+eyJoaXN0b3J5IjpbLTc5NDU5MTgwOSwtMjAzMTczMzk5Nl19
 -->
