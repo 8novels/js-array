@@ -1,5 +1,4 @@
-魔法JSあれい☆アレイ
-==================
+# 魔法JS☆あれい
 
 JavaScriptのArrayメソッドで敵と戦う魔法少女のお話。
 
@@ -13,3 +12,6 @@ JavaScriptのArrayメソッドで敵と戦う魔法少女のお話。
 
 ## 目次
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTAyOTg3NDkxXX0=
+-->
