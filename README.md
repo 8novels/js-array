@@ -1,5 +1,6 @@
 # 魔法JS☆あれい
 
+魔法（マジカル）JS（女子小学生）☆あれい
 JavaScriptのArrayメソッドで敵と戦う魔法少女のお話。
 
 ## 登場人物
@@ -12,6 +13,18 @@ JavaScriptのArrayメソッドで敵と戦う魔法少女のお話。
 
 ## 目次
 
+* 第1話 popとpush
+* 第2話
+* 第3話
+* 第4話
+* 第5話
+* 第6話
+* 第7話
+* 第8話
+* 第9話
+* 第10話
+* 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyOTg3NDkxXX0=
+eyJoaXN0b3J5IjpbLTEyMzM0MzcyN119
 -->
