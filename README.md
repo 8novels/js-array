@@ -16,9 +16,13 @@ JavaScriptのArrayメソッドで敵と戦う魔法少女のお話。
 * 第1話 popでpushした、ような……
 * 第2話 shiftはとってもunshiftって
 * 第3話 もうsortもreverseも怖くない
-* 第4話 fillも、spliceも、あるんだよ
+* 第4話 fillも、spliceも、copyWithinもあるんだよ
+* 第5話 joinなんて、concatなわけない
+* 第6話 indexOfなの絶対lastIndexOf
+
 * 第5話 indexOfなんて、lastIndexOfなわけない
 * 第6話 joinなの絶対concat
+
 * 第7話 includesのsliceと向き合えますか？
 * 第8話 filterって、ほんとfind
 * 第9話 mapなの、forEachが許さない
@@ -28,7 +32,7 @@ JavaScriptのArrayメソッドで敵と戦う魔法少女のお話。
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwMDE3NjA5MywyMDIyNTQ2NTE5LC04Mz
-M0MDg4NDgsMTAyNzg4NTI4NiwtMTA4NTM3NjYzMSwtMjAzMTcz
-Mzk5Nl19
+eyJoaXN0b3J5IjpbLTIwMzEyOTgxMTQsMTIwMDE3NjA5MywyMD
+IyNTQ2NTE5LC04MzM0MDg4NDgsMTAyNzg4NTI4NiwtMTA4NTM3
+NjYzMSwtMjAzMTczMzk5Nl19
 -->
