@@ -5,8 +5,8 @@ JavaScriptのArrayメソッドで敵と戦う魔法少女のお話。
 
 ## 登場人物
 
-丹生あれい  
-魔法少女。小学6年生。
+丹生（にゅう）あれい
+魔法少女「魔法（マジカル）JS（女子小学生）☆あれい」として活動中。
 
 イテレー太  
 正体不明の魔法生物。
@@ -28,7 +28,7 @@ JavaScriptのArrayメソッドで敵と戦う魔法少女のお話。
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjg1MjM2MzQsMTIwMDE3NjA5MywyMD
-IyNTQ2NTE5LC04MzM0MDg4NDgsMTAyNzg4NTI4NiwtMTA4NTM3
-NjYzMSwtMjAzMTczMzk5Nl19
+eyJoaXN0b3J5IjpbNzM1MjYxMzc5LDEyMDAxNzYwOTMsMjAyMj
+U0NjUxOSwtODMzNDA4ODQ4LDEwMjc4ODUyODYsLTEwODUzNzY2
+MzEsLTIwMzE3MzM5OTZdfQ==
 -->
