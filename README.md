@@ -17,26 +17,17 @@ JavaScriptのArrayメソッドで敵と戦う魔法少女のお話。
 * 第2話 shiftはとってもunshiftって
 * 第3話 sortとreverseもう何も怖くない
 * 第4話 fillも、spliceも、あるんだよ
-* 第5話 indexOfとlastIndexOf
-* 第6話 joinとconcat
-* 第7話 includesとslice
-* 第8話 filterとfind
-* 第9話 mapとforEach
-* 第10話 everyとsome
-* 第11話 reduceとreduceRight
-* 第12話 entries、keys、values
+* 第5話 indexOfとlastIndexOf後悔なんて、あるわけない
+* 第6話 joinとconcatこんなの絶対おかしいよ
+* 第7話 includesとslice本当の気持ちと向き合えますか?
+* 第8話 filterとfindあたしって、ほんとバカ
+* 第9話 mapとforEachそんなの、あたしが許さない
+* 第10話 everyとsomeもう誰にも頼らない
+* 第11話 reduceとreduceRight最後に残った道しるべ
+* 第12話 entries、keys、valuesわたしの、最高の友達
 
 
-
-後悔なんて、あるわけない
-
-本当の気持ちと向き合えますか?
-あたしって、ほんとバカ
-そんなの、あたしが許さない
-もう誰にも頼らない
-最後に残った道しるべ
-わたしの、最高の友達
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4NDg3MjQwOSwxMDI3ODg1Mjg2LC0xMD
-g1Mzc2NjMxLC0yMDMxNzMzOTk2XX0=
+eyJoaXN0b3J5IjpbLTEzOTAxNDQ2NTksMTAyNzg4NTI4NiwtMT
+A4NTM3NjYzMSwtMjAzMTczMzk5Nl19
 -->
