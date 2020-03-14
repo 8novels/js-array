@@ -35,8 +35,12 @@ JavaScriptのArrayメソッドで敵と戦う魔法少女のお話。
 後悔なんて、あるわけない
 こんなの絶対おかしいよ
 本当の気持ちと向き合えますか?
-
+あたしって、ほんとバカ
+そんなの、あたしが許さない
+もう誰にも頼らない
+最後に残った道しるべ
+わたしの、最高の友達
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTc3MzAzNTEsLTEwODUzNzY2MzEsLT
-IwMzE3MzM5OTZdfQ==
+eyJoaXN0b3J5IjpbMTAyNzg4NTI4NiwtMTA4NTM3NjYzMSwtMj
+AzMTczMzk5Nl19
 -->
