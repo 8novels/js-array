@@ -25,7 +25,18 @@ JavaScriptのArrayメソッドで敵と戦う魔法少女のお話。
 * 第10話 everyとsome
 * 第11話 reduceとreduceRight
 * 第12話 entries、keys、values
+
+
+
+夢の中で逢った、ような……
+それはとっても嬉しいなって
+もう何も怖くない
+奇跡も、魔法も、あるんだよ
+後悔なんて、あるわけない
+こんなの絶対おかしいよ
+本当の気持ちと向き合えますか?
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODUzNzY2MzEsLTIwMzE3MzM5OTZdfQ
-==
+eyJoaXN0b3J5IjpbLTIwOTc3MzAzNTEsLTEwODUzNzY2MzEsLT
+IwMzE3MzM5OTZdfQ==
 -->
