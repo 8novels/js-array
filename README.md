@@ -22,12 +22,12 @@ JavaScriptのArrayメソッドで敵と戦う魔法少女のお話。
 * 第7話 includesとsliceと向き合えますか？
 * 第8話 filterって、ほんとfind
 * 第9話 mapなの、forEachが許さない
-* 第10話 everyとsomeもう誰にも頼らない
-* 第11話 reduceとreduceRight最後に残った道しるべ
-* 第12話 entries、keys、valuesわたしの、最高の友達
+* 第10話 もうeveryにもsomeにも頼らない
+* 第11話 最後に残ったreduceとreduceRight
+* 第12話 entriesの、最高のkeysとvalues
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5NzExMzk1OSwxMDI3ODg1Mjg2LC0xMD
+eyJoaXN0b3J5IjpbLTgzMzQwODg0OCwxMDI3ODg1Mjg2LC0xMD
 g1Mzc2NjMxLC0yMDMxNzMzOTk2XX0=
 -->
