@@ -13,8 +13,8 @@ JavaScriptのArrayメソッドで敵と戦う魔法少女のお話。
 
 ## 目次
 
-* 第1話 popとpush
-* 第2話 shiftとunshift
+* 第1話 popでpushした、ような……
+* 第2話 とunshift　shiftはとっても嬉しいなって
 * 第3話 sortとreverse
 * 第4話 fillとsplice
 * 第5話 indexOfとlastIndexOf
@@ -26,10 +26,6 @@ JavaScriptのArrayメソッドで敵と戦う魔法少女のお話。
 * 第11話 reduceとreduceRight
 * 第12話 entries、keys、values
 
-
-
-夢の中で逢った、ような……
-それはとっても嬉しいなって
 もう何も怖くない
 奇跡も、魔法も、あるんだよ
 後悔なんて、あるわけない
@@ -41,6 +37,6 @@ JavaScriptのArrayメソッドで敵と戦う魔法少女のお話。
 最後に残った道しるべ
 わたしの、最高の友達
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyNzg4NTI4NiwtMTA4NTM3NjYzMSwtMj
-AzMTczMzk5Nl19
+eyJoaXN0b3J5IjpbMzA2NTQxMjc0LDEwMjc4ODUyODYsLTEwOD
+UzNzY2MzEsLTIwMzE3MzM5OTZdfQ==
 -->
