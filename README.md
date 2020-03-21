@@ -21,14 +21,14 @@ JavaScriptのArrayメソッドで敵と戦う魔法少女のお話。
 * 第6話 indexOfなの絶対lastIndexOf
 * 第7話 includesのsliceと向き合えますか？
 * 第8話 filterって、ほんとfindとfindIndex
-* 第9話 everyなの、someが許さない
+* 第9話 なの、someが許さないsome
 * 第10話 もうmapにもforEachにも頼らない
 * 第11話 最後に残ったreduceとreduceRight
 * 第12話 entriesの、最高のkeysとvalues
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1NjYwODgyMSw3MzUyNjEzNzksMTIwMD
-E3NjA5MywyMDIyNTQ2NTE5LC04MzM0MDg4NDgsMTAyNzg4NTI4
-NiwtMTA4NTM3NjYzMSwtMjAzMTczMzk5Nl19
+eyJoaXN0b3J5IjpbNTA5ODU3MDgyLDczNTI2MTM3OSwxMjAwMT
+c2MDkzLDIwMjI1NDY1MTksLTgzMzQwODg0OCwxMDI3ODg1Mjg2
+LC0xMDg1Mzc2NjMxLC0yMDMxNzMzOTk2XX0=
 -->
