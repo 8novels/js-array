@@ -1,12 +1,5 @@
 
-2
-僕は、君達の願い事を何でも一つ叶えてあげる  
-え？本当？  
-願い事って？  
-何だって構わない。どんな奇跡だって起こしてあげられるよ  
-『それはとっても嬉しいなって』  
- 
- 3
+3
 無理して格好つけてるだけで、怖くても辛くても誰にも相談できないし、一人ぼっちで泣いてばかり  
 いい物じゃないわよ、魔法少女なんて  
 『もう何も怖くない』  
@@ -56,6 +49,6 @@
 きっといつまでも言い張れます  
 『わたしの、最高の友達』
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjc2NjgwNCwtNTkxMDczNzcsLTgxOD
-A5NDM1NV19
+eyJoaXN0b3J5IjpbLTE4ODk2NzM3MTksLTU5MTA3Mzc3LC04MT
+gwOTQzNTVdfQ==
 -->
