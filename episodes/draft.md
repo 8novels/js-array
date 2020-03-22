@@ -1,9 +1,4 @@
 
-3
-無理して格好つけてるだけで、怖くても辛くても誰にも相談できないし、一人ぼっちで泣いてばかり  
-いい物じゃないわよ、魔法少女なんて  
-『もう何も怖くない』  
-  
  4
 マミさん、本当に優しい人だったんだ  
 戦うためにどういう覚悟がいるのか、私達に思い知らせるために、この人は…  
@@ -49,6 +44,6 @@
 きっといつまでも言い張れます  
 『わたしの、最高の友達』
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODk2NzM3MTksLTU5MTA3Mzc3LC04MT
-gwOTQzNTVdfQ==
+eyJoaXN0b3J5IjpbNDY4MDEwMzAxLC01OTEwNzM3NywtODE4MD
+k0MzU1XX0=
 -->
