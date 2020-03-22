@@ -1,10 +1,3 @@
- 
-10
-誰も、未来を信じない  
-誰も、未来を受け止められない  
-『もう誰にも頼らない』  
-
-11  
 ずっとあの子達を見守りながら、あなたは何にも感じなかったの？  
 みんながどんなに辛かったか、わかってあげようとしなかったの？  
 『最後に残った道しるべ』  
@@ -14,6 +7,6 @@
 きっといつまでも言い張れます  
 『わたしの、最高の友達』
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1NTA0Mjk4MSw0NjgwMTAzMDEsLTU5MT
+eyJoaXN0b3J5IjpbLTgxNDQxNzM1MCw0NjgwMTAzMDEsLTU5MT
 A3Mzc3LC04MTgwOTQzNTVdfQ==
 -->
