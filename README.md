@@ -24,11 +24,12 @@ JavaScriptのArrayメソッドで敵と戦う魔法少女のお話。
 * 第9話 someなの、everyが許さない
 * 第10話 もうmapにもforEachにも頼らない
 * 第11話 最後に残ったreduceとreduceRight
-* 第12話 entriesの、最高のkeysとvalues
+* 最終話 entriesの、最高のkeysとvalues
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzOTc5Njg1Nyw3MzUyNjEzNzksMTIwMD
-E3NjA5MywyMDIyNTQ2NTE5LC04MzM0MDg4NDgsMTAyNzg4NTI4
-NiwtMTA4NTM3NjYzMSwtMjAzMTczMzk5Nl19
+eyJoaXN0b3J5IjpbMTg4NDIyMjI1MiwtODM5Nzk2ODU3LDczNT
+I2MTM3OSwxMjAwMTc2MDkzLDIwMjI1NDY1MTksLTgzMzQwODg0
+OCwxMDI3ODg1Mjg2LC0xMDg1Mzc2NjMxLC0yMDMxNzMzOTk2XX
+0=
 -->
