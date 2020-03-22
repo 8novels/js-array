@@ -1,9 +1,4 @@
 
- 4
-マミさん、本当に優しい人だったんだ  
-戦うためにどういう覚悟がいるのか、私達に思い知らせるために、この人は…  
-『奇跡も、魔法も、あるんだよ』  
-
 5 
 舞い上がっちゃってますね、私  
 これからも見滝原市の平和は、この魔法少女さやかちゃんがガンガン守りまくっちゃいますからね～  
@@ -44,6 +39,6 @@
 きっといつまでも言い張れます  
 『わたしの、最高の友達』
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY4MDEwMzAxLC01OTEwNzM3NywtODE4MD
-k0MzU1XX0=
+eyJoaXN0b3J5IjpbMTQ2Mzg1ODM5NCw0NjgwMTAzMDEsLTU5MT
+A3Mzc3LC04MTgwOTQzNTVdfQ==
 -->
