@@ -1,9 +1,4 @@
  
-7
-戦いの運命を受け入れてまで、君には叶えたい望みがあったんだろ？  
-それは間違いなく実現したじゃないか  
-『本当の気持ちと向き合えますか？』  
- 
  8
 あんた達とは違う魔法少女になる、私はそう決めたんだ  
 見返りなんていらない  
@@ -29,6 +24,6 @@
 きっといつまでも言い張れます  
 『わたしの、最高の友達』
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk1MDY0MDk1LDQ2ODAxMDMwMSwtNTkxMD
+eyJoaXN0b3J5IjpbMTU5MTQ5OTQyLDQ2ODAxMDMwMSwtNTkxMD
 czNzcsLTgxODA5NDM1NV19
 -->
