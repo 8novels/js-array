@@ -1,10 +1,4 @@
  
- 8
-あんた達とは違う魔法少女になる、私はそう決めたんだ  
-見返りなんていらない  
-私だけは絶対に自分のために魔法を使ったりしない  
-『あたしって、ほんとバカ』  
- 
  9
 馬鹿と思うかもしれないけど、私はね、本当に助けられないのかどうか、それを確かめるまで、諦めたくない  
 『そんなの、あたしが許さない』  
@@ -24,6 +18,6 @@
 きっといつまでも言い張れます  
 『わたしの、最高の友達』
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5MTQ5OTQyLDQ2ODAxMDMwMSwtNTkxMD
-czNzcsLTgxODA5NDM1NV19
+eyJoaXN0b3J5IjpbMTUxMjU5OTM3OSw0NjgwMTAzMDEsLTU5MT
+A3Mzc3LC04MTgwOTQzNTVdfQ==
 -->
