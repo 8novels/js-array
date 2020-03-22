@@ -1,10 +1,3 @@
-
-5 
-舞い上がっちゃってますね、私  
-これからも見滝原市の平和は、この魔法少女さやかちゃんがガンガン守りまくっちゃいますからね～  
-『後悔なんて、あるわけない』  
- 
- 6
 さやかちゃんは、魔女をやっつけるために魔法少女になったんでしょ？  
 あの子は魔女じゃない、同じ魔法少女なんだよ  
 『こんなの絶対おかしいよ』  
@@ -39,6 +32,6 @@
 きっといつまでも言い張れます  
 『わたしの、最高の友達』
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2Mzg1ODM5NCw0NjgwMTAzMDEsLTU5MT
-A3Mzc3LC04MTgwOTQzNTVdfQ==
+eyJoaXN0b3J5IjpbMzQ2NTMyMTA1LDQ2ODAxMDMwMSwtNTkxMD
+czNzcsLTgxODA5NDM1NV19
 -->
