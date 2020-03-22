@@ -1,8 +1,4 @@
  
- 9
-馬鹿と思うかもしれないけど、私はね、本当に助けられないのかどうか、それを確かめるまで、諦めたくない  
-『そんなの、あたしが許さない』  
-
 10
 誰も、未来を信じない  
 誰も、未来を受け止められない  
@@ -18,6 +14,6 @@
 きっといつまでも言い張れます  
 『わたしの、最高の友達』
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxMjU5OTM3OSw0NjgwMTAzMDEsLTU5MT
+eyJoaXN0b3J5IjpbMTY1NTA0Mjk4MSw0NjgwMTAzMDEsLTU5MT
 A3Mzc3LC04MTgwOTQzNTVdfQ==
 -->
