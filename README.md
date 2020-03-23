@@ -24,12 +24,12 @@ JavaScriptのArrayメソッドで敵と戦う魔法少女のお話。
 * 第9話 someなの、everyが許さない
 * 第10話 もうmapにもforEachにも頼らない
 * 第11話 最後に残ったreduceとreduceRight
-* 最終話 わたしの、flatのflatMap
+* 最終話 flatの、最高のflatMap
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM3NTIyNjMsMTg4NDIyMjI1MiwtODM5Nz
-k2ODU3LDczNTI2MTM3OSwxMjAwMTc2MDkzLDIwMjI1NDY1MTks
-LTgzMzQwODg0OCwxMDI3ODg1Mjg2LC0xMDg1Mzc2NjMxLC0yMD
-MxNzMzOTk2XX0=
+eyJoaXN0b3J5IjpbLTkwMjQ3Mzk4MCw4Mzc1MjI2MywxODg0Mj
+IyMjUyLC04Mzk3OTY4NTcsNzM1MjYxMzc5LDEyMDAxNzYwOTMs
+MjAyMjU0NjUxOSwtODMzNDA4ODQ4LDEwMjc4ODUyODYsLTEwOD
+UzNzY2MzEsLTIwMzE3MzM5OTZdfQ==
 -->
